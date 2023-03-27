@@ -24,4 +24,11 @@ https://account.protonvpn.com/signup?plan=free&language=en
 - Create a Resource group in Microsoft Azure
   - If you dont know how to use Azure, I have a repository guide on how to obtain a subscription. 
 https://github.com/msimotwo/mszuresubscription
-- 
+
+<p align="center">
+<img src="https://i.imgur.com/e4y4ryD.png" alt="VPN Logo"/>
+</p>
+
+- Within that resource group, create a Windows 10 Virtual Machine in another region.
+  - Ex.( Japan, South Africa, etc. Basically somewhere else that is not your locatiion.)
+
