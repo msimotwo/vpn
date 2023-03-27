@@ -31,4 +31,11 @@ https://github.com/msimotwo/mszuresubscription
 
 - Within that resource group, create a Windows 10 Virtual Machine in another region.
   - Ex.( Japan, South Africa, etc. Basically somewhere else that is not your locatiion.)
+- Log into the VM with Remote Desktop
+  - Use Microsoft Edge and look up "Whatismyipaddress.com" 
+
+<p align="center">
+<img src="https://i.imgur.com/S0Cu0zO.png" alt="VPN Logo"/>
+</p>
+
 
