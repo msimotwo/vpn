@@ -44,3 +44,10 @@ https://github.com/msimotwo/mszuresubscription
 <img src="https://i.imgur.com/EgycVKF.jpg" alt="VPN Logo"/>
 </p>
 
+- Now try this and experiment!
+  - Using your new IP information, start looking up websites that you would use on a daily basis. Such as Google, YouTube, Instagram, etc. You will see that there will most likely be a difference in how the site looks versus your location's regular site. The URL might even be different. 
+  
+- Clean and delete Microsoft Azure Resource Groups and VM's.
+  - Log out of your VM, and head over to Azure.
+    - Make sure to delete all Resource Groups and VM's. Any background activity will lead to a charge on your account $$$. Save that money!
+
